@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou o Igor Ferreira!
 
-Sou um desenvolvedor **Full-Stack**, sempre em busca de aprendizado e novos desafios. Atualmente, estou me dedicando em construir aplicações completas utilizando **JavaScript**, **Node.js** e **React**.
+Sou um desenvolvedor **Full-Stack**, sempre em busca de aprendizado e novos desafios. Atualmente, estou me dedicando em construir aplicações completas utilizando **JavaScript**, **Node.js**, **C#** e **React**.
 
 ---
 
 ## 🌟 Sobre mim
 
-- 🚀 Buscando minha primeira oportunidade como desenvolvedor na área de tecnologia.
-- 📚 Estudante do curso de Desenvolvimento Full-Stack na [Rocketseat](https://www.rocketseat.com.br/).
-- 🔧 Experiência prática com **HTML**, **CSS**, **JavaScript**, **ReactJS**, **Node.js**, e **SQLite**.
+- 🚀 Buscando minha primeira oportunidade como desenvolvedor.
+- 📚 Cursando Análise e Desenvolvimento e Sistemas na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/).
+- 🔧 Experiência prática com **ReactJS**, **Node.js**, **C#** e **Postgres**.
 - 📍 Moro em São José dos Campos - SP.
 
 ---
