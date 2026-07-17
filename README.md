@@ -7,7 +7,7 @@ Sou um desenvolvedor **Full-Stack**, sempre em busca de aprendizado e novos desa
 ## 🌟 Sobre mim
 
 - 🚀 Buscando minha primeira oportunidade como desenvolvedor.
-- 📚 Cursando Análise e Desenvolvimento e Sistemas na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/).
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/).
 - 🔧 Experiência prática com **ReactJS**, **Node.js**, **C#** e **Postgres**.
 - 📍 Moro em São José dos Campos - SP.
 
